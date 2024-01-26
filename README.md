@@ -1,3 +1,4 @@
 go-system-mutex-playground
 ==========================
-- https://github.com/juju/mutex
+### Notes
+- Working but wip, the mutex.Acquire will keep blocking for waiting for mutex abandonment
